@@ -13,6 +13,7 @@ repositories {
 }
 
 dependencies {
+    //스프링 부트 스타터
     implementation 'org.springframework.boot:spring-boot-starter-web'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
